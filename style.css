@@ -1,0 +1,115 @@
+.prueba-rating {
+  width: 350px;
+}
+
+.link {
+  margin-top: 25px;
+  margin-left: 20px;
+  font-size: 15pt;
+  color: white;
+}
+.menu {
+  position: fixed;
+  display: flex;
+  background: linear-gradient(to bottom, #1f1f1f 10%, #ffffff00 100%);
+  width: 100%;
+  height: 80px;
+  z-index: 100;
+}
+.infopeli {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 40%;
+  height: 100%;
+  margin-left: 10px;
+}
+.need {
+  display: flex;
+}
+.video {
+  background-image: url(https://i0.wp.com/beneaththetangles.com/wp-content/uploads/2019/08/banner-howls-moving-castle.png?ssl=1);
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+}
+
+.texto-margin-titulo {
+  margin-bottom: 40px;
+  margin-left: 30px;
+  color: white;
+}
+.texto-margin {
+  margin-bottom: 30px;
+  margin-left: 30px;
+  color: white;
+}
+.botones-box {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+.botones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  background-color: rgb(223, 223, 223);
+  font-size: 15pt;
+  height: 50px;
+  margin: 10px;
+  margin-bottom: 50px;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.botones:hover {
+  background-color: rgb(255, 255, 255);
+}
+.icon {
+  font-size: 30px;
+}
+
+.pelis {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  height: 480px;
+  margin-top: 40px;
+}
+.popyrec {
+  padding: 10px;
+  font-size: 20pt;
+  color: white;
+}
+
+.star {
+  display: flex;
+  width: 80%;
+  font-size: 13pt;
+  color: white;
+  padding-left: 3px;
+  margin-top: 5px;
+}
+
+.tama:hover {
+  color: yellow;
+}
+
+.final {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 7rem;
+  background-color: rgb(32, 32, 32);
+}
+.fin-txt {
+  color: white;
+  font-size: 15pt;
+}
+.fondo-gris-nuevo {
+  background-color: rgb(52, 52, 52);
+  width: 100%;
+  height: 100%;
+}
