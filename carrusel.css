@@ -59,6 +59,7 @@
   position: absolute;
   top: 0;
   width: 300px;
+  margin-right: 2rem;
 }
 
 .poster {
@@ -124,4 +125,15 @@
   display: flex;
   justify-content: center;
   margin-right: 16px;
+}
+
+.glass {
+  background: rgba(39, 39, 39, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(200, 200, 200, 0.18);
+  padding-right: 2rem;
+  padding-top: 2rem;
 }

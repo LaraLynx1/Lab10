@@ -110,7 +110,7 @@ class Carrusel {
   }
 
   setFilmePosition(filme, index) {
-    filme.style.left = 300 * index + "px";
+    filme.style.left = 332 * index + "px";
 
     /*  filme.addEventListener("click", (e) => {
       console.log(e.target.src);

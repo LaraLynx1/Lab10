@@ -69,7 +69,7 @@ const dataPopulares = [
     imagen:
       "https://m.media-amazon.com/images/I/617CNUVUToL._AC_UF894,1000_QL80_.jpg",
     banner:
-      "https://images.wallpapersden.com/image/download/netflix-heartstopper-season-1_bWdua2eUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+      "https://wallpapers.com/images/hd/heartstopper-happy-together-0j3wcibpkdk4k8se.jpg",
     descripcion:
       "Based on the graphic novels of the same name by series creator Alice Oseman, Heartstopper follows high school sweetie Charlie (Joe Locke), who develops a crush on jock classmate Nick (Kit Connor).",
     rating: 5,
